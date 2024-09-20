@@ -11,7 +11,7 @@
    - Choose "Choose another app" to specify a new default application.
    - Choose "More Apps" then choose "Look for another app on this PC"
    - Navigate to the directory where you pasted the bat file ("C:\Program Files (x86)\Microsoft\Edge\Application" or "C:\Program Files\Microsoft\Edge\Application").
-   - Select the bat file to set it as the**default application for opening PDF files**.
+   - Select the bat file to set it as the **default application for opening PDF files**.
 ![image](https://github.com/aarushsonker/Edge-PDF-Standalone/assets/70100429/6a7830c4-11a0-4cf0-9562-83020307cf81)
 ![image](https://github.com/aarushsonker/Edge-PDF-Standalone/assets/70100429/e7d0fe72-4348-430a-82c9-fb81f5f22ea4)
 ![image](https://github.com/aarushsonker/Edge-PDF-Standalone/assets/70100429/51b8b129-c985-47d9-b2cf-f05478d3bddf)
