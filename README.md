@@ -20,7 +20,7 @@
 
 By following these steps, all your PDFs will open in Microsoft Edge’s PDF viewer as a standalone app, free from the usual browser tabs and distractions. This setup not only enhances your focus but also provides a more efficient and dedicated reading environment.
 
-Our solution offers significant advantages over competing products. For example, a similar program from a competitor (available at https://github.com/benquick123/Edge-PDF-Standalone-Reader) encountered major issues, with their .exe file being flagged by antivirus software (34 out of 63 detections on Total Virus). These security concerns can hinder user trust and system safety. In stark contrast, our bat file has been rigorously tested and confirmed to be completely clean, passing all antivirus checks without any flags.
+Our solution offers significant advantages over competing products. For example, a similar program from a competitor encountered major issues, with their .exe file being flagged by antivirus software (34 out of 63 detections on Total Virus). These security concerns can hinder user trust and system safety. In stark contrast, our bat file has been rigorously tested and confirmed to be completely clean, passing all antivirus checks without any flags.
 
 In summary, our bat file provides a straightforward, secure, and effective method to use Microsoft Edge as a standalone PDF reader. This approach not only simplifies the user experience but also eliminates potential security risks associated with other solutions. 
 (To view the file in virus total click [here](https://www.virustotal.com/gui/file/faf9ed7fcedc17082019071a9dd59d2441081810866d9831fa24d544f035fab5?nocache=1)
